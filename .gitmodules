@@ -1,0 +1,3 @@
+[submodule "sw-infra"]
+	path = sw-infra
+	url = https://github.com/chy168/a.git
